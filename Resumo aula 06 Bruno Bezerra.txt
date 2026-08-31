@@ -1,0 +1,3 @@
+Resumo aula 06 Bruno Bezerra
+
+Eu aprendi a estruturar a base de qualquer programa entendendo que as variáveis guardam dados que mudam e constantes que não mudam.  Vi como definir cada tipo de informação, sejam números, textos ou se alguma coisa é verdadeira ou falsa, e como usar operadores aritméticos e relacionais pra fazer cálculos e comparações. Por fim entendi como tudo isso se aplica na prática pra criar sistemas organizados, que deem pra entender e livres de bugs no mercado de trabalho.
