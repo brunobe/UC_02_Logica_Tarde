@@ -1,0 +1,31 @@
+Teste de mesa -- Mini-projeto 2
+
+Cenário 1 (normal): Viagem Maceió -> Maragogi
+
+Entradas:
+Distância: 130 km | Consumo: 10 km/L | Preço do litro: R$5,50
+
+Passo___________________________|_distancia_|_consumo_|_preçoLitros_|_litro_|_custoTotal_|_saida_|_saida_
+Leia_distancia__________________|____130____|____?____|______?______|___?___|______?_____|___?___|___?___
+Leia_consumo____________________|____130____|___10____|______?______|___?___|______?_____|___?___|___?___
+leia_precoLitro_________________|____130____|___10____|____5.50_____|___?___|______?_____|___?___|___?___
+litro_=_distancia_/_consumo_____|____130____|___10____|____5.50_____|__13___|______?_____|___?___|___?___
+custoTotal_=_litro_*_precoLitro_|____130____|___10____|____5.50_____|__13___|____71.50___|___?___|___?___
+escreva Saídas                  |    130    |   10    |    5.50     |  13   |    71.50   |   13  | 71.50
+Litros necessários: 13 L
+Custo total estimado: R$71,50
+
+Cenário 2 (grande percurso): Viagem Maceió -> São Miguel dos milages
+
+Entradas: 
+Distância: 200 | Consumo: 12,5km/L | Preço do litro: R$6,00 
+
+Passo___________________________|_distancia_|_consumo_|_preçoLitros_|_litro_|_custoTotal_|_saida_|_saida_
+Leia_distancia__________________|____200____|____?____|______?______|___?___|______?_____|___?___|___?___
+Leia_consumo____________________|____200____|__12.5___|______?______|___?___|______?_____|___?___|___?___
+leia_precoLitro_________________|____200____|__12.5___|______6______|___?___|______?_____|___?___|___?___
+litro_=_distancia_/_consumo_____|____200____|__12.5___|______6______|__16___|_____96_____|___?___|___?___
+custoTotal_=_litro_*_precoLitro_|____200____|__12.5___|______6______|__16___|_____96_____|___?___|___?___
+escreva Saídas                  |    200    |  12.5   |      6      |  16   |     96     |  16   |  96
+Litros necessários: 16 L
+Custo total estimado: R$96,00
